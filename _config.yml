@@ -1,0 +1,28 @@
+on:
+  push:
+    branches: ['student']  
+
+
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+
+
+    steps:
+
+      - uses: actions/checkout@v3 
+
+      - name: "login to Docker hub"
+        run: docker login --username ${{ secrets.DOCKER_HUB_USERNAME }} --password ${{ secrets.DOCKER_HUB_TOKEN }}
+
+      - name: "Bulding Docker image"
+        run: docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/onlineshopstore .
+
+      - name: "Pushing to Docker hub"
+        run: docker push ${{ secrets.DOCKER_HUB_USERNAME }}/onlineshopstore   
+
+        
+ 
