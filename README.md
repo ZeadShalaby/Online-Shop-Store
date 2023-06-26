@@ -37,19 +37,15 @@ https://github.com/ZeadShalaby/Online-Shop-Store
 
 📌Home Page:
 
-![Home Page](https://github.com/shohan3401/Apricot-Store/blob/main/screenshot/Home.PNG)
 
 📌Admin Page:
 
-![Admin Page](https://github.com/shohan3401/Apricot-Store/blob/main/screenshot/admin.PNG)
 
 📌Electronics's Page:
 
-![Electronics's Page](https://github.com/shohan3401/Apricot-Store/blob/main/screenshot/electronics.PNG)
 
 📌Top Selling's Page:
 
-![Top Selling's Page](https://github.com/shohan3401/Apricot-Store/blob/main/screenshot/top_selling.PNG)
 
 
 ## Contact with me
