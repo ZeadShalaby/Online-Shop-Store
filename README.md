@@ -1,7 +1,63 @@
-# Apricot-Store
-Assalamu Alaikum (السلام عليكم). Shop Store(Named this project) is a project that based on online shopping system. In this project both front-end and back-end part have been used smoothly for better experience. As It's an open source project. So, It's open for anyone to download the source code and use. 
 
-# Installation Process
+<br/>
+<p align="center">
+  <a href="https://github.com/ZeadShalaby/Machine_Learning_Project">
+    <img src="https://i.imgur.com/7tbiQ0L.png" alt="Logo" width="230" height="170">
+  </a>
+
+<h3 align="center">Online_Shop_Store</h3>
+  <p align="center">
+    Project With PHP 
+    <br/>
+    <br/>
+  </p>
+
+
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Machine_Learning_Project?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Machine_Learning_Project) ![License](https://img.shields.io/github/license/ZeadShalaby/Machine_Learning_Project)
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Contributing](#contributing)
+* [Authors](#authors)
+* [Shop-Store](#Shop-Store)
+*[Installation Process](#Installation-Process)
+## About The Project
+
+
+ <img src="https://i.imgur.com/JI5s5tK.png" alt="Logo" width="900" height="500">
+ <br/>
+ <br/>
+ 
+<p >
+    # Screenshots
+
+📌Home Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+
+
+
+📌Login-Admin Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+
+📌Login-G Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+
+
+📌Electronics's Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+
+
+
+📌Top Selling's Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+
+
+
+
+</p>
+
+## Shop-Store
+* Shop Store(Named this project) is a project that based on online shopping system. In this project both front-end and back-end part have been used smoothly for better experience. As It's an open source project. So, It's open for anyone to download the source code and use. 
+
+
+
+## Installation-Process
 01. Install XAMPP
 
 02. Open XAMPP Control panal and start [apache] and [mysql]
@@ -33,18 +89,29 @@ Don't forget to (Follow) and press the (Star) button. If you want to save this p
 
 ## visit other repository with below link
 https://github.com/ZeadShalaby/Online-Shop-Store
-# Screenshots
 
-📌Home Page:
+## Contributing
 
+Any contributions you make are **greatly appreciated**.
 
-📌Admin Page:
+* If you have suggestions for adding or removing projects, feel free
+  to [open an issue](https://github.com/ZeadShalaby/Machine_Learning_Project/issues/new) to discuss it, or directly
+  create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Make sure to add a meaningful description
 
+### Creating A Pull Request
 
-📌Electronics's Page:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/GoalFeature`)
+3. Commit your Changes (`git commit -m 'Add some GoalFeature'`)
+4. Push to the Branch (`git push origin feature/GoalFeature`)
+5. Open a Pull Request
 
+## Authors
 
-📌Top Selling's Page:
+* **Ziad Shalaby** - *Computer Science Student* - [Ziad Shalaby](https://github.com/ZeadShalaby)
 
 
 
