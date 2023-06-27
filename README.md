@@ -33,20 +33,27 @@
 <p >
     # Screenshots
 
-📌Home Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+📌Home Page:
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
 
 
 
-📌Login-Admin Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
-
-📌Login-G Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
-
-
-📌Electronics's Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+📌Login-Admin Page:
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
 
 
+📌Login-G Page: 
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
 
-📌Top Selling's Page: <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
+
+
+📌Electronics's Page: 
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
+
+
+
+📌Top Selling's Page: 
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
 
 
 
