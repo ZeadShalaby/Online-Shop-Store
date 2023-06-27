@@ -18,10 +18,10 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Contributing](#contributing)
-* [Authors](#authors)
 * [Shop-Store](#Shop-Store)
 * [Installation-Process](#Installation-Process)
+* [Contributing](#contributing)
+* [Authors](#authors)
 
 ## About The Project
 
