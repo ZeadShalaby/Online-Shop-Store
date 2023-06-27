@@ -88,7 +88,7 @@
 
 03. Download project from github (https://github.com/ZeadShalaby/Online-Shop-Store.git)  
     
-04. extract files in (htdocs) folder and keep the folder name apricot-store (After installing the XAMPP, open the (XAMPP) folder. then you will get (htdocs) folder)
+04. extract files in (htdocs) folder and keep the folder name shop-store (After installing the XAMPP, open the (XAMPP) folder. then you will get (htdocs) folder)
 
 05. open link http://localhost/phpmyadmin
 
