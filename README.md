@@ -1,8 +1,7 @@
-
 <br/>
 <p align="center">
-  <a href="https://github.com/ZeadShalaby/Machine_Learning_Project">
-    <img src="https://i.imgur.com/7tbiQ0L.png" alt="Logo" width="230" height="170">
+  <a href="https://github.com/ZeadShalaby/Online-Shop-Store">
+    <img src="https://i.imgur.com/HPcwkQ9.png" alt="Logo" width="230" height="170">
   </a>
 
 <h3 align="center">Online_Shop_Store</h3>
