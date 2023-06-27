@@ -36,26 +36,34 @@
 📌Home Page:
 
 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="430" height="170">
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="630" height="170">
 
 
 
 📌Login-Admin Page:
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
+
+
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="630" height="170">
 
 
 📌Login-G Page: 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
+
+
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="630" height="170">
 
 
 
 📌Electronics's Page: 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
+
+
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="630" height="170">
 
 
 
 📌Top Selling's Page: 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
+
+
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="630" height="170">
 
 
 
