@@ -13,7 +13,7 @@
   </p>
 
 
-![Forks](https://img.shields.io/github/forks/ZeadShalaby/Machine_Learning_Project?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Machine_Learning_Project) ![License](https://img.shields.io/github/license/ZeadShalaby/Machine_Learning_Project)
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Online-Shop-Store?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Online-Shop-Store) ![License](https://img.shields.io/github/license/ZeadShalaby/Online-Shop-Store)
 
 ## Table Of Contents
 
@@ -26,7 +26,8 @@
 ## About The Project
 
 
- <img src="https://i.imgur.com/JI5s5tK.png" alt="Logo" width="900" height="500">
+
+ <img src="https://i.imgur.com/N1znxdm.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
  
@@ -37,7 +38,7 @@
 
 
 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/RQ0oANq.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
@@ -45,7 +46,7 @@
 
 
 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/tfox9bh.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
@@ -53,7 +54,7 @@
 
 
 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/5ua5srH.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
@@ -61,7 +62,7 @@
 
 
 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/1L5dRtl.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
@@ -69,7 +70,7 @@
 
 
 
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/HI3Lby0.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
@@ -120,7 +121,7 @@ https://github.com/ZeadShalaby/Online-Shop-Store
 Any contributions you make are **greatly appreciated**.
 
 * If you have suggestions for adding or removing projects, feel free
-  to [open an issue](https://github.com/ZeadShalaby/Machine_Learning_Project/issues/new) to discuss it, or directly
+  to [open an issue](https://github.com/ZeadShalaby/Online-Shop-Store/issues/new) to discuss it, or directly
   create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
