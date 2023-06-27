@@ -34,7 +34,9 @@
     # Screenshots
 
 📌Home Page:
-<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="230" height="170">
+
+
+<img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="430" height="170">
 
 
 
