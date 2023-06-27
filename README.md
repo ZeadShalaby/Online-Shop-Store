@@ -38,7 +38,7 @@
 
 
 
-<img src="https://i.imgur.com/tfox9bh.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/1L5dRtl.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-<img src="https://i.imgur.com/1L5dRtl.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/tfox9bh.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
