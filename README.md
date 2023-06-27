@@ -27,7 +27,7 @@
 
 
 
- <img src="https://i.imgur.com/N1znxdm.png" alt="Logo" width="900" height="500">
+<img src="https://i.imgur.com/5ua5srH.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
  
@@ -38,7 +38,7 @@
 
 
 
-<img src="https://i.imgur.com/RQ0oANq.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/tfox9bh.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
@@ -46,15 +46,15 @@
 
 
 
-<img src="https://i.imgur.com/tfox9bh.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/RQ0oANq.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
-📌Login-G Page: 
+📌Login-User Page: 
 
 
 
-<img src="https://i.imgur.com/5ua5srH.png" alt="project(Coise-User)" width="900" height="380">
+<img src="https://i.imgur.com/N1znxdm.png" alt="project(Coise-User)" width="900" height="380">
 
 
 
