@@ -21,7 +21,8 @@
 * [Contributing](#contributing)
 * [Authors](#authors)
 * [Shop-Store](#Shop-Store)
-*[Installation-Process](#Installation-Process)
+* [Installation-Process](#Installation-Process)
+
 ## About The Project
 
 
