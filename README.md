@@ -13,8 +13,6 @@
   </p>
 
 
-
-
 ![Forks](https://img.shields.io/github/forks/ZeadShalaby/Online-Shop-Store?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Online-Shop-Store) ![License](https://img.shields.io/github/license/ZeadShalaby/Online-Shop-Store)
 
 ## Table Of Contents
